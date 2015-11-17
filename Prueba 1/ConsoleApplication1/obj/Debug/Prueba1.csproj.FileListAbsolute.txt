@@ -1,0 +1,6 @@
+C:\Users\JoseManuel\Documents\Visual Studio 2013\Projects\Tutorial WPF\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\JoseManuel\Documents\Visual Studio 2013\Projects\Tutorial WPF\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\JoseManuel\Documents\Visual Studio 2013\Projects\Tutorial WPF\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\JoseManuel\Documents\Visual Studio 2013\Projects\Tutorial WPF\ConsoleApplication1\ConsoleApplication1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\JoseManuel\Documents\Visual Studio 2013\Projects\Tutorial WPF\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\JoseManuel\Documents\Visual Studio 2013\Projects\Tutorial WPF\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
